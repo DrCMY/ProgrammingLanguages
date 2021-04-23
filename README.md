@@ -1,12 +1,12 @@
 # ProgrammingLanguages
 Collection of many codes.
 
-HackerRank, problem solving (intermediate)
+1- HackerRank, problem solving (intermediate)
 
 User-friendly password system
 
 
-FutureSkill
+2- FutureSkill
 
 Cash register
 
