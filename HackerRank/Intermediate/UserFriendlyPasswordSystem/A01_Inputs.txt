@@ -1,0 +1,25 @@
+6
+2
+setPassword cAr1
+authorize 223691457
+authorize 303580761
+authorize 100
+setPassword d
+authorize 100
+
+
+4
+2
+setPassword 000A
+authorize 108738450
+authorize 108738449
+authorize 244736787
+
+
+5
+2
+setPassword 1
+setPassword 2
+setPassword 3
+authorize 49
+authorize 50
