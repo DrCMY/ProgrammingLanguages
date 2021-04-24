@@ -1,0 +1,33 @@
+#ifndef Solution_h
+#define Solution_h
+
+#include <stdio.h>
+#include <stdbool.h>
+
+#include "API.h"
+/*
+void Solution() {
+  // You can initiate and calculate things here
+}
+*/
+
+/**
+ * Return the day which you buy gold. The first day has number zero. This method is
+ * called first, and only once.
+ */
+int getBuyDay() {
+  // Write your code here
+  return -2;
+}
+
+/**
+ * Return the day to sell gold on. This day has to be after (greater than) the buy
+ * day. The first day has number zero (although this is not a valid sell day). This
+ * method is called second, and only once.
+ */
+int getSellDay() {
+  // Write your code here
+  return -2;
+}
+
+#endif
