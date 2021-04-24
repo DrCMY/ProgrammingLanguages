@@ -5,6 +5,7 @@ Collection of many codes. Certificate. C/C++
 
 User-friendly password system
 
+Hotel construction (no solution is provided)
 
 2- FutureSkill, Freecode
 
