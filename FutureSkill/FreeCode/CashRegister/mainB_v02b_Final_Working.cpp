@@ -18,9 +18,11 @@ bool f_sub(const vector<int>& vec, int num)
 int main()
 {
 	//vector<int> A = {1, 2}; // Answer: 4
+	//vector<int> A = {1, 1, 2}; // Answer: 5
 	//vector<int> A = {1, 2, 3, 4, 5}; // Answer: 16
 	//vector<int> A = {5, 10, 20, 50, 100}; // Answer: 1
-	vector<int> A = {1, 5, 10, 20, 50}; // Answer: 2
+	//vector<int> A = {1, 5, 10, 20, 50}; // Answer: 2
+	vector<int> A = {1, 1, 5, 10, 20, 50}; // Answer: 3
 
 
 	//vector<int> A = {1, 10, 22, 30}; // Answer: 2
